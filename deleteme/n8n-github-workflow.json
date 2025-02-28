@@ -1,0 +1,3272 @@
+{
+  "active": false,
+  "connections": {
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Collaborators": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check Collaborator Permission": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Add Collaborator": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Remove Collaborator": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Branches": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Branch": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Branch Protection": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Update Branch Protection": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Branch": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Delete Branch": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Releases": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Release": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Release": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Update Release": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Delete Release": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Release Assets": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Upload Release Asset": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Delete Release Asset": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Workflows": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Workflow": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Enable Workflow": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Disable Workflow": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Workflow Dispatch Event": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Workflow Runs": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Workflow Run": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Cancel Workflow Run": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Rerun Workflow Run": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get User": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Authenticated User": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Update Authenticated User": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List User Repositories": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List User Followers": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Users Followed": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Follow User": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Unfollow User": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check User Followed": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Pull Requests": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Pull Request": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Pull Request": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Update Pull Request": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Pull Request Files": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge Pull Request": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Pull Request Reviews": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Pull Request Review": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Submit Pull Request Review": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Review Comments": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Review Comment": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Update Review Comment": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Delete Review Comment": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Issues": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Issue": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Issue": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Update Issue": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Close Issue": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Reopen Issue": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Lock Issue": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Unlock Issue": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Issue Comments": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Issue Comment": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Update Issue Comment": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Delete Issue Comment": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Issue Events": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Issue Labels": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Add Issue Labels": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Remove Issue Labels": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Anthropic Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Window Buffer Memory": {
+      "ai_memory": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Repositories": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create Repository": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Repository": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Update Repository": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Delete Repository": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Repository Contributors": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Repository Languages": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Repository Topics": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Repository README": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Repository Branches": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "List Repository Collaborators": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When Executed by Another Workflow": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "createdAt": "2025-02-28T17:00:00.000Z",
+  "id": "githubApiToolWorkflow",
+  "meta": {
+    "templateCredsSetupCompleted": true
+  },
+  "name": "github.api.tool",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.1,
+      "position": [
+        80,
+        0
+      ],
+      "id": "chat-trigger-node",
+      "name": "When chat message received",
+      "webhookId": "github-api-tool-webhook"
+    },
+    {
+      "parameters": {
+        "options": {
+          "systemMessage": "You are a helpful AI assistant for GitHub API operations. Assist users in performing various GitHub repository-related tasks with precision and clarity."
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1.7,
+      "position": [
+        460,
+        0
+      ],
+      "id": "ai-agent-node",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
+      "typeVersion": 1.2,
+      "position": [
+        260,
+        220
+      ],
+      "id": "anthropic-chat-model-node",
+      "name": "Anthropic Chat Model",
+      "credentials": {
+        "anthropicApi": {
+          "id": "LncAbqW6EkmLRsA6",
+          "name": "Anthropic account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "list",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "visibility": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Visibility', `all/public/private`, 'string') }}",
+        "sort": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Sort_By', `created/updated/pushed/full_name`, 'string') }}",
+        "direction": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Sort_Direction', `asc/desc`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        680,
+        220
+      ],
+      "id": "list-repositories-node",
+      "name": "List Repositories",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "create",
+        "name": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the new repository`, 'string') }}",
+        "description": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Description', `Description of the repository`, 'string') }}",
+        "private": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Is_Private', `true/false`, 'boolean') }}",
+        "hasIssues": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Has_Issues', `true/false`, 'boolean') }}",
+        "hasProjects": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Has_Projects', `true/false`, 'boolean') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        800,
+        220
+      ],
+      "id": "create-repository-node",
+      "name": "Create Repository",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        }
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        920,
+        220
+      ],
+      "id": "get-repository-node",
+      "name": "Get Repository",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "update",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "name": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('New_Repository_Name', `New name for the repository`, 'string') }}",
+        "description": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Description', `Updated description`, 'string') }}",
+        "private": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Is_Private', `true/false`, 'boolean') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        1040,
+        220
+      ],
+      "id": "update-repository-node",
+      "name": "Update Repository",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "delete",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository to delete`, 'string') }}",
+          "mode": "name"
+        }
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        1160,
+        220
+      ],
+      "id": "delete-repository-node",
+      "name": "Delete Repository",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "listContributors",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "anon": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Include_Anonymous', `true/false`, 'boolean') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        1280,
+        220
+      ],
+      "id": "list-contributors-node",
+      "name": "List Repository Contributors",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "listLanguages",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        }
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        1400,
+        220
+      ],
+      "id": "list-languages-node",
+      "name": "List Repository Languages",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "listTopics",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        }
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        1520,
+        220
+      ],
+      "id": "list-topics-node",
+      "name": "List Repository Topics",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "getReadme",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "ref": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Branch_Ref', `Branch or commit SHA`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        1640,
+        220
+      ],
+      "id": "get-readme-node",
+      "name": "Get Repository README",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "listBranches",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "protected": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Only_Protected', `true/false`, 'boolean') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        1760,
+        220
+      ],
+      "id": "list-branches-node",
+      "name": "List Repository Branches",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "repository",
+        "operation": "listCollaborators",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "affiliation": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Collaborator_Affiliation', `all/direct/outside`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        1880,
+        220
+      ],
+      "id": "list-collaborators-node",
+      "name": "List Repository Collaborators",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "list",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "state": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_State', `all/open/closed`, 'string') }}",
+        "sort": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Sort_By', `created/updated/comments`, 'string') }}",
+        "direction": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Sort_Direction', `asc/desc`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        2000,
+        220
+      ],
+      "id": "list-issues-node",
+      "name": "List Issues",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "create",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "title": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Title', `Title of the issue`, 'string') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Body', `Description of the issue`, 'string') }}",
+        "assignees": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Assignees', `List of GitHub usernames`, 'string[]') }}",
+        "labels": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Labels', `List of label names`, 'string[]') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        2120,
+        220
+      ],
+      "id": "create-issue-node",
+      "name": "Create Issue",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to retrieve`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        2240,
+        220
+      ],
+      "id": "get-issue-node",
+      "name": "Get Issue",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "update",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to update`, 'number') }}",
+        "title": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Title', `New title for the issue`, 'string') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Body', `Updated description of the issue`, 'string') }}",
+        "state": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_State', `open/closed`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        2360,
+        220
+      ],
+      "id": "update-issue-node",
+      "name": "Update Issue",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "close",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to close`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        2480,
+        220
+      ],
+      "id": "close-issue-node",
+      "name": "Close Issue",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "reopen",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to reopen`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        2600,
+        220
+      ],
+      "id": "reopen-issue-node",
+      "name": "Reopen Issue",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "lock",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to lock`, 'number') }}",
+        "lockReason": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Lock_Reason', `off-topic/too heated/resolved/spam`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        2720,
+        220
+      ],
+      "id": "lock-issue-node",
+      "name": "Lock Issue",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "unlock",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to unlock`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        2840,
+        220
+      ],
+      "id": "unlock-issue-node",
+      "name": "Unlock Issue",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "listComments",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to list comments`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        2960,
+        220
+      ],
+      "id": "list-issue-comments-node",
+      "name": "List Issue Comments",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "createComment",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to comment on`, 'number') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Comment_Body', `Text of the comment`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        3080,
+        220
+      ],
+      "id": "create-issue-comment-node",
+      "name": "Create Issue Comment",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "updateComment",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "commentId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Comment_ID', `ID of the comment to update`, 'number') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Comment_Body', `Updated text of the comment`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        3200,
+        220
+      ],
+      "id": "update-issue-comment-node",
+      "name": "Update Issue Comment",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "deleteComment",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "commentId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Comment_ID', `ID of the comment to delete`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        3320,
+        220
+      ],
+      "id": "delete-issue-comment-node",
+      "name": "Delete Issue Comment",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "listEvents",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to list events`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        3440,
+        220
+      ],
+      "id": "list-issue-events-node",
+      "name": "List Issue Events",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "listLabels",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to list labels`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        3560,
+        220
+      ],
+      "id": "list-issue-labels-node",
+      "name": "List Issue Labels",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "addLabels",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to add labels`, 'number') }}",
+        "labels": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Labels_To_Add', `List of label names to add`, 'string[]') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        3680,
+        220
+      ],
+      "id": "add-issue-labels-node",
+      "name": "Add Issue Labels",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "issue",
+        "operation": "removeLabels",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "issueNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Issue_Number', `Issue number to remove labels`, 'number') }}",
+        "labels": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Labels_To_Remove', `List of label names to remove`, 'string[]') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        3800,
+        220
+      ],
+      "id": "remove-issue-labels-node",
+      "name": "Remove Issue Labels",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "list",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "state": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_State', `all/open/closed`, 'string') }}",
+        "sort": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Sort_By', `created/updated/popularity`, 'string') }}",
+        "direction": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Sort_Direction', `asc/desc`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        4000,
+        220
+      ],
+      "id": "list-pull-requests-node",
+      "name": "List Pull Requests",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "create",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "title": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Title', `Title of the pull request`, 'string') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Body', `Description of the pull request`, 'string') }}",
+        "head": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Head_Branch', `Source branch name`, 'string') }}",
+        "base": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Base_Branch', `Target branch name`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        4120,
+        220
+      ],
+      "id": "create-pull-request-node",
+      "name": "Create Pull Request",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "pullRequestNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Number', `Pull request number to retrieve`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        4240,
+        220
+      ],
+      "id": "get-pull-request-node",
+      "name": "Get Pull Request",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "update",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "pullRequestNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Number', `Pull request number to update`, 'number') }}",
+        "title": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Title', `New title for the pull request`, 'string') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Body', `Updated description of the pull request`, 'string') }}",
+        "state": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_State', `open/closed`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        4360,
+        220
+      ],
+      "id": "update-pull-request-node",
+      "name": "Update Pull Request",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "listFiles",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "pullRequestNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Number', `Pull request number to list files`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        4480,
+        220
+      ],
+      "id": "list-pull-request-files-node",
+      "name": "List Pull Request Files",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "merge",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "pullRequestNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Number', `Pull request number to merge`, 'number') }}",
+        "mergeMethod": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Merge_Method', `merge/squash/rebase`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        4600,
+        220
+      ],
+      "id": "merge-pull-request-node",
+      "name": "Merge Pull Request",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "listReviews",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "pullRequestNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Number', `Pull request number to list reviews`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        4720,
+        220
+      ],
+      "id": "list-pull-request-reviews-node",
+      "name": "List Pull Request Reviews",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "createReview",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "pullRequestNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Number', `Pull request number to review`, 'number') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Review_Body', `Review comments`, 'string') }}",
+        "event": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Review_Event', `APPROVE/REQUEST_CHANGES/COMMENT`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        4840,
+        220
+      ],
+      "id": "create-pull-request-review-node",
+      "name": "Create Pull Request Review",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "submitReview",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "pullRequestNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Number', `Pull request number to submit review`, 'number') }}",
+        "reviewId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Review_ID', `ID of the review to submit`, 'number') }}",
+        "event": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Review_Event', `APPROVE/REQUEST_CHANGES/COMMENT`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        4960,
+        220
+      ],
+      "id": "submit-pull-request-review-node",
+      "name": "Submit Pull Request Review",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "listReviewComments",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "pullRequestNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Number', `Pull request number to list review comments`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        5080,
+        220
+      ],
+      "id": "list-review-comments-node",
+      "name": "List Review Comments",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "createReviewComment",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "pullRequestNumber": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Pull_Request_Number', `Pull request number to comment on`, 'number') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Review_Comment_Body', `Text of the review comment`, 'string') }}",
+        "commitId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Commit_ID', `Commit SHA to comment on`, 'string') }}",
+        "path": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('File_Path', `Path of the file to comment on`, 'string') }}",
+        "position": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Comment_Position', `Line number in the file`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        5200,
+        220
+      ],
+      "id": "create-review-comment-node",
+      "name": "Create Review Comment",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "updateReviewComment",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "commentId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Comment_ID', `ID of the review comment to update`, 'number') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Review_Comment_Body', `Updated text of the review comment`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        5320,
+        220
+      ],
+      "id": "update-review-comment-node",
+      "name": "Update Review Comment",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "pullRequest",
+        "operation": "deleteReviewComment",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "commentId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Comment_ID', `ID of the review comment to delete`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        5440,
+        220
+      ],
+      "id": "delete-review-comment-node",
+      "name": "Delete Review Comment",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "user",
+        "operation": "get",
+        "username": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Username', `GitHub username to retrieve`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        5600,
+        220
+      ],
+      "id": "get-user-node",
+      "name": "Get User",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "user",
+        "operation": "getAuthenticated"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        5720,
+        220
+      ],
+      "id": "get-authenticated-user-node",
+      "name": "Get Authenticated User",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "user",
+        "operation": "updateAuthenticated",
+        "name": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Full_Name', `User's full name`, 'string') }}",
+        "email": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Email', `User's email address`, 'string') }}",
+        "blog": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Blog_URL', `User's blog or website URL`, 'string') }}",
+        "bio": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Bio', `User's bio description`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        5840,
+        220
+      ],
+      "id": "update-authenticated-user-node",
+      "name": "Update Authenticated User",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "user",
+        "operation": "listRepositories",
+        "username": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Username', `GitHub username to list repositories`, 'string') }}",
+        "type": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Type', `all/owner/member`, 'string') }}",
+        "sort": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Sort_By', `created/updated/pushed/full_name`, 'string') }}",
+        "direction": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Sort_Direction', `asc/desc`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        5960,
+        220
+      ],
+      "id": "list-user-repositories-node",
+      "name": "List User Repositories",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "user",
+        "operation": "listFollowers",
+        "username": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Username', `GitHub username to list followers`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        6080,
+        220
+      ],
+      "id": "list-user-followers-node",
+      "name": "List User Followers",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "user",
+        "operation": "listFollowing",
+        "username": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Username', `GitHub username to list followed users`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        6200,
+        220
+      ],
+      "id": "list-users-followed-node",
+      "name": "List Users Followed",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "user",
+        "operation": "follow",
+        "username": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Username_To_Follow', `GitHub username to follow`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        6320,
+        220
+      ],
+      "id": "follow-user-node",
+      "name": "Follow User",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "user",
+        "operation": "unfollow",
+        "username": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Username_To_Unfollow', `GitHub username to unfollow`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        6440,
+        220
+      ],
+      "id": "unfollow-user-node",
+      "name": "Unfollow User",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "user",
+        "operation": "checkFollowing",
+        "username": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Username_To_Check', `GitHub username to check if followed`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        6560,
+        220
+      ],
+      "id": "check-user-followed-node",
+      "name": "Check User Followed",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "workflow",
+        "operation": "list",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        }
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        6680,
+        220
+      ],
+      "id": "list-workflows-node",
+      "name": "List Workflows",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "workflow",
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "workflowId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Workflow_ID', `ID of the workflow to retrieve`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        6800,
+        220
+      ],
+      "id": "get-workflow-node",
+      "name": "Get Workflow",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "workflow",
+        "operation": "enable",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "workflowId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Workflow_ID', `ID of the workflow to enable`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        6920,
+        220
+      ],
+      "id": "enable-workflow-node",
+      "name": "Enable Workflow",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "workflow",
+        "operation": "disable",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "workflowId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Workflow_ID', `ID of the workflow to disable`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        7040,
+        220
+      ],
+      "id": "disable-workflow-node",
+      "name": "Disable Workflow",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "workflow",
+        "operation": "createDispatchEvent",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "workflowId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Workflow_ID', `ID of the workflow to dispatch`, 'number') }}",
+        "ref": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Branch_Ref', `Branch or ref to trigger workflow`, 'string') }}",
+        "inputs": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Workflow_Inputs', `JSON object of workflow inputs`, 'object') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        7160,
+        220
+      ],
+      "id": "create-workflow-dispatch-node",
+      "name": "Create Workflow Dispatch Event",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "workflow",
+        "operation": "listRuns",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "workflowId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Workflow_ID', `ID of the workflow to list runs`, 'number') }}",
+        "status": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Run_Status', `queued/in_progress/completed/waiting/requested/action_required`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        7280,
+        220
+      ],
+      "id": "list-workflow-runs-node",
+      "name": "List Workflow Runs",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "workflow",
+        "operation": "getWorkflowRun",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "runId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Run_ID', `ID of the workflow run to retrieve`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        7400,
+        220
+      ],
+      "id": "get-workflow-run-node",
+      "name": "Get Workflow Run",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "workflow",
+        "operation": "cancelRun",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "runId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Run_ID', `ID of the workflow run to cancel`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        7520,
+        220
+      ],
+      "id": "cancel-workflow-run-node",
+      "name": "Cancel Workflow Run",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "workflow",
+        "operation": "rerunRun",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "runId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Run_ID', `ID of the workflow run to rerun`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        7640,
+        220
+      ],
+      "id": "rerun-workflow-run-node",
+      "name": "Rerun Workflow Run",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "release",
+        "operation": "list",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        }
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        7760,
+        220
+      ],
+      "id": "list-releases-node",
+      "name": "List Releases",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "release",
+        "operation": "create",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "tagName": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Tag_Name', `Name of the tag to create release for`, 'string') }}",
+        "targetCommitish": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Target_Branch', `Branch or commit SHA to create release from`, 'string') }}",
+        "name": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Release_Name', `Name of the release`, 'string') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Release_Description', `Description of the release`, 'string') }}",
+        "draft": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Is_Draft', `true/false`, 'boolean') }}",
+        "prerelease": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Is_Prerelease', `true/false`, 'boolean') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        7880,
+        220
+      ],
+      "id": "create-release-node",
+      "name": "Create Release",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "release",
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "releaseId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Release_ID', `ID of the release to retrieve`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        8000,
+        220
+      ],
+      "id": "get-release-node",
+      "name": "Get Release",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "release",
+        "operation": "update",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "releaseId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Release_ID', `ID of the release to update`, 'number') }}",
+        "tagName": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('New_Tag_Name', `New tag name for the release`, 'string') }}",
+        "name": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Release_Name', `New name for the release`, 'string') }}",
+        "body": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Release_Description', `Updated description of the release`, 'string') }}",
+        "draft": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Is_Draft', `true/false`, 'boolean') }}",
+        "prerelease": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Is_Prerelease', `true/false`, 'boolean') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        8120,
+        220
+      ],
+      "id": "update-release-node",
+      "name": "Update Release",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "release",
+        "operation": "delete",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "releaseId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Release_ID', `ID of the release to delete`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        8240,
+        220
+      ],
+      "id": "delete-release-node",
+      "name": "Delete Release",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "release",
+        "operation": "listAssets",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "releaseId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Release_ID', `ID of the release to list assets`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        8360,
+        220
+      ],
+      "id": "list-release-assets-node",
+      "name": "List Release Assets",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "release",
+        "operation": "uploadAsset",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "releaseId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Release_ID', `ID of the release to upload asset to`, 'number') }}",
+        "filePath": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Asset_File_Path', `Path to the file to upload`, 'string') }}",
+        "fileName": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Asset_File_Name', `Name of the asset file`, 'string') }}",
+        "contentType": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Asset_Content_Type', `MIME type of the asset`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        8480,
+        220
+      ],
+      "id": "upload-release-asset-node",
+      "name": "Upload Release Asset",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "release",
+        "operation": "deleteAsset",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "assetId": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Asset_ID', `ID of the release asset to delete`, 'number') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        8600,
+        220
+      ],
+      "id": "delete-release-asset-node",
+      "name": "Delete Release Asset",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "branch",
+        "operation": "list",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "protected": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Only_Protected', `true/false to filter protected branches`, 'boolean') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        8720,
+        220
+      ],
+      "id": "list-branches-node",
+      "name": "List Branches",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "branch",
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "branch": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Branch_Name', `Name of the branch to retrieve`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        8840,
+        220
+      ],
+      "id": "get-branch-node",
+      "name": "Get Branch",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "branch",
+        "operation": "getProtection",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "branch": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Branch_Name', `Name of the branch to get protection details`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        8960,
+        220
+      ],
+      "id": "get-branch-protection-node",
+      "name": "Get Branch Protection",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "branch",
+        "operation": "updateProtection",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "branch": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Branch_Name', `Name of the branch to update protection`, 'string') }}",
+        "requiredStatusChecks": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Required_Status_Checks', `Status checks configuration`, 'object') }}",
+        "requiredPullRequestReviews": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Required_PR_Reviews', `Pull request review configuration`, 'object') }}",
+        "restrictions": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Branch_Restrictions', `Branch access restrictions`, 'object') }}",
+        "enforceAdmins": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Enforce_For_Admins', `true/false to enforce for admins`, 'boolean') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        9080,
+        220
+      ],
+      "id": "update-branch-protection-node",
+      "name": "Update Branch Protection",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "branch",
+        "operation": "create",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "branch": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('New_Branch_Name', `Name of the new branch`, 'string') }}",
+        "sha": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Base_Commit_SHA', `SHA of the commit to base the new branch on`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        9200,
+        220
+      ],
+      "id": "create-branch-node",
+      "name": "Create Branch",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "branch",
+        "operation": "delete",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "branch": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Branch_Name', `Name of the branch to delete`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        9320,
+        220
+      ],
+      "id": "delete-branch-node",
+      "name": "Delete Branch",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "collaborator",
+        "operation": "list",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "affiliation": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Collaborator_Affiliation', `all/direct/outside`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        9440,
+        220
+      ],
+      "id": "list-collaborators-node",
+      "name": "List Collaborators",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "collaborator",
+        "operation": "checkPermission",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "username": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Collaborator_Username', `GitHub username to check permission`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        9560,
+        220
+      ],
+      "id": "check-collaborator-permission-node",
+      "name": "Check Collaborator Permission",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "collaborator",
+        "operation": "add",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "username": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Collaborator_Username', `GitHub username to add as collaborator`, 'string') }}",
+        "permission": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Collaborator_Permission', `pull/push/admin/maintain/triage`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        9680,
+        220
+      ],
+      "id": "add-collaborator-node",
+      "name": "Add Collaborator",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "collaborator",
+        "operation": "remove",
+        "owner": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Owner', `GitHub username or organization`, 'string') }}",
+          "mode": "name"
+        },
+        "repository": {
+          "__rl": true,
+          "value": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Repository_Name', `Name of the repository`, 'string') }}",
+          "mode": "name"
+        },
+        "username": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('Collaborator_Username', `GitHub username to remove from collaborators`, 'string') }}"
+      },
+      "type": "n8n-nodes-base.githubTool",
+      "typeVersion": 1,
+      "position": [
+        9800,
+        220
+      ],
+      "id": "remove-collaborator-node",
+      "name": "Remove Collaborator",
+      "credentials": {
+        "githubApi": {
+          "id": "KhaeQcCItHWDXiTs",
+          "name": "GitHub account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [],
+  "triggerCount": 0,
+  "updatedAt": "2025-02-28T17:00:00.000Z",
+  "versionId": "github-api-tool-version-1"
+}
